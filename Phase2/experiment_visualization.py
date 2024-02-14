@@ -1,7 +1,3 @@
-# Names: Michael Hager, Elizabeth Sharf, Savera Sahai
-# MEEN 357 - Group 14
-
-
 import matplotlib.pyplot as plt
 from subfunctions import *
 from define_experiment import *

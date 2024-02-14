@@ -1,7 +1,3 @@
-# Names: Michael Hager, Elizabeth Sharf, Savera Sahai
-# MEEN 357 - Group 14
-
-
 """###########################################################################
 #   This file initializes the experiment and end_event structures for 
 #   MEEN 357 project phase 4.

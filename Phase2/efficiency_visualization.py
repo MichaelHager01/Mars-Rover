@@ -1,6 +1,3 @@
-# Names: Michael Hager, Elizabeth Sharf, Savera Sahai
-# MEEN 357 - Group 14
-
 from scipy.interpolate import interp1d
 from subfunctions import *
 import matplotlib.pyplot as plt

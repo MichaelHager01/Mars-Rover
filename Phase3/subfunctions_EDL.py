@@ -1,6 +1,3 @@
-# Names: Michael Hager, Elizabeth Sharf, Savera Sahai
-# MEEN 357 - Group 14
-
 """###########################################################################
 #   This file contains subfunctions for Phase 3 of the TAMU MEEN 357 project
 #

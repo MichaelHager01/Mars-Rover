@@ -1,6 +1,3 @@
-# Names: Michael Hager, Elizabeth Sharf, Savera Sahai
-# MEEN 357 - Group 14
-
 from define_experiment import *
 from subfunctions import simulate_rover
 import matplotlib.pyplot as plt

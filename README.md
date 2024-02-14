@@ -1,5 +1,5 @@
 # Mars-Rover
-In my Engineering Analysis course here at Texas A&M University, I was given a semester project dealing with a rover on mars. This involved building functions, writing scripts, and professionally reporting our teams progress. This repository will include our code which was all in Python, as well as our reports. There were four phases for this project.
+In my Engineering Analysis course here at Texas A&M University, I was given a semester project dealing with a rover on Mars. This involved building functions, writing scripts, and professionally reporting our team's progress. This repository will include our code which was all in Python, as well as our reports. There were four phases for this project.
 
 # Phase 1
 In phase 1 of this project, we implemented Python functions for analyzing the rover, built Python script files to visually show the changes of the rovers speed given changes in the rovers properties, and answered questions related to our work. This phase is split up into three parts.

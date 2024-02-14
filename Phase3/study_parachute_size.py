@@ -1,6 +1,3 @@
-# Names: Michael Hager, Elizabeth Sharf, Savera Sahai
-# MEEN 357 - Group 14
-
 import numpy as np
 import matplotlib.pyplot as plt
 from define_edl_system import *

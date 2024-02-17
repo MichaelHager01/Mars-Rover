@@ -1,9 +1,3 @@
-"""###########################################################################
-#   This file initializes a rover structure for testing/grading
-#
-#   Created by: Jonathan Weaver-Rosen
-#   Last Modified: 11 October 2021
-###########################################################################"""
 from subfunctions import *
 
 def define_rover_1():

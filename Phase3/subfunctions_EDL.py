@@ -1,10 +1,3 @@
-"""###########################################################################
-#   This file contains subfunctions for Phase 3 of the TAMU MEEN 357 project
-#
-#   Created by: Former Marvin Numerical Methods Engineering Team
-#   Last Modified: 22 October 2021
-###########################################################################"""
-
 import numpy as np
 from scipy.interpolate import interp1d
 import matplotlib.pyplot as plt
